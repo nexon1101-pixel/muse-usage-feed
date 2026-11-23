@@ -1,1 +1,1 @@
-{"additionalTokens":{"remainingTokens":3000000000,"usedPercent":0},"plan":"Power","updatedAt":"2026-11-23T05:59:57+09:00","weekly":{"cycleStart":"2026-11-19T01:44:00+09:00","resetAt":"2026-11-26T01:44:00+09:00","usedPercent":61}}
+{"plan": "Power", "weekly": {"usedPercent": 62, "cycleStart": "2026-11-19T01:44:00+09:00", "resetAt": "2026-11-26T01:44:00+09:00"}, "additionalTokens": {"usedPercent": 0, "remainingTokens": 3000000000}, "updatedAt": "2026-11-23T09:00:03+09:00"}
