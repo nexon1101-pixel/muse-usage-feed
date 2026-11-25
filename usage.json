@@ -1,7 +1,7 @@
 {
   "plan": "Power",
   "weekly": {
-    "usedPercent": 91,
+    "usedPercent": 93,
     "cycleStart": "2026-11-19T01:44:00+09:00",
     "resetAt": "2026-11-26T01:44:00+09:00"
   },
@@ -9,5 +9,5 @@
     "usedPercent": 0,
     "remainingTokens": 3000000000
   },
-  "updatedAt": "2026-11-25T14:59:50+09:00"
+  "updatedAt": "2026-11-25T18:00:24+09:00"
 }
